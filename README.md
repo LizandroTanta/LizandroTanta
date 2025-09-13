@@ -29,7 +29,7 @@
 - :technologist: Me gusta dar soluciones tecnologicas a grandes y a pequeños negocios.
 - :computer: IDE que manejo `Java`, `C#`, `Python`.
 - 🚉: Gestor de base de datos que manejo: 'SqlServer', 'MySQL'.
-- :student: Me gusta estar en cosntante aprendizaje `Computer Science` y `Software Engineering`.
+- :student: Me gusta estar en cosntante aprendizaje.
 <br>
 
 
