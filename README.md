@@ -27,7 +27,7 @@
 - :school: Soy un estudainte de Ing.Sistemas Computacionales en la Universidad Privada de norte en Cajamarca-Perú.
 - :trophy: Cuento con experiencia en Soporte Técnico TI.
 - :technologist: Me gusta dar soluciones tecnologicas a grandes y a pequeños negocios.
-- :computer: IDE que manejo `Java`, `C#`, `Python`.
+- :computer: lenguage que manejo `Java`, `C#`, `Python`.
 - 🚉: Gestor de base de datos que manejo: 'SqlServer', 'MySQL'.
 - :student: Me gusta estar en cosntante aprendizaje.
 <br>
